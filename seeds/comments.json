@@ -1,0 +1,20 @@
+[
+    {
+      "commentBody": "My favorite technology to use is Skala",
+      "name": "Freddy",
+      "blog_id":1
+  
+    },
+    {
+      "commentBody": "My favorite technology to use is JavaScript",
+      "name": "Bob",
+      "blog_id":2
+    },
+    {
+      "commentBody": "I am a CSS wiz",
+      "name": "Teddy",
+      "blog_id":3
+     
+    }
+  ]
+  
